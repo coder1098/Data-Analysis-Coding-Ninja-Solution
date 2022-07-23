@@ -1,0 +1,79 @@
+Univariate Analysis : Business Problem solutions
+
+Q1-: We use scatter plots for which type of analysis-
+Ans-: (c)
+
+Q2-: Which of the following charts can be used for univariate analysis
+Ans-: (b)
+
+Q3-: For what type of analysis, this plot is used?
+Ans-: (a)
+
+Q4-: Match the following
+Ans-: (c)
+
+Q5-: Which of the following cannot be covered under univariate analysis of data?
+Ans-: (a)
+
+Q6-: Which of these is one reason to run a univariate analysis?
+Ans-: (b)
+
+Q7-: For visualising the univariate analysis for categorical data we use
+Ans-: (b)
+
+Q8-: Find the average marks scored by the students.
+Ans-: (a)
+
+Q9-: Find the Median and Trimmed mean with exclude proportion as 0.2 of the given Marks. for the following dataset
+Ans-: (a)
+
+Q10-: Find the Minimum and Maximum Marks scored by the student , for the following Dataset.
+Ans-: (b)
+
+Q11-: Find the Standard deviation of the attribute Marks, for the following dataset.
+Ans-: (d)
+
+Q12-: A percentile calculated with .4 as k signifies ?
+Ans-: (a)
+
+Q13-: Match the Percentile value given for the Score table in the given dataset.
+Ans-: (b)
+
+Q14-: In the given Marketing Dataset Apply trim mean to the column Income with 0.1 variations and find its value. Also verify if it does have an outlier or not?
+Ans-: (a)
+
+Q15-: What can you infer from the density plot shown?
+Ans-: (b)
+
+Q16-: Which of the following is true in the case of BINNING the values?
+Ans-: (a),(c)
+
+Q17-: In the given Marketing Dataset create BIN for the column "AGE".
+Ans-: (c)
+
+Q18-: While Doing the above univariate analysis, Is there any outlier in the AGE column?
+Ans-: (a)
+
+Q19-: Which of the following is NOT a box in the PivotTable Fields List.
+Ans-: (d)
+
+Q20-: Where will you find the option to insert a Pivot Table?
+Ans-: (c)
+
+Q21-: Create a PIVOT table for Marital_Status from Marketing Dataset and perform CountA operation on the pivot table.
+Ans-: (b)
+
+Q22-: Find out the average number of "Web purchases" based on Educational qualification of an individual,In the given Marketing Dataset?
+Ans-: (a)
+
+Q23-: For Age Column which of the following univariate analyses can you perform?
+Ans-: (b),(c),(d)
+
+Q24-: For the Education column, which of the following univariate analysis can you perform?
+Ans-: (b)
+
+Q25-: For the Total Purchases column which of the following techniques will be best suitable for univariate analysis?
+Ans-: (b)
+
+Q26-: Before you move forward with your analysis, Which of the following features you will choose to perform your univariate analysis. As the business problem was to target the customer who will buy the new product which is made up of fruit and tastes sweet(marketing Dataset). Analyse the dataset according to the asked problem.
+Ans-: (a),(d),(e),(f),(g)

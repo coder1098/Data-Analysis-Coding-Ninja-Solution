@@ -1,0 +1,88 @@
+Bivariate Analysis : Business Problem solutions
+
+Q1-: We cannot add multiple categorical features in a pivot table
+Ans-: (b)
+
+Q2-: Suppose you are given two variables V1 & V2. V1 is the age of a person and V2 is the amount spent on buying junk food. So, what kind of relationship you can infer from these two variables?
+Ans-: (b)
+
+Q3-: Which analysis is used to see how two numeric columns are related to each other?
+Ans-: (a)
+
+Q4-: In bivariate analysis, how many variables are involved ?
+Ans-: (b)
+
+Q5-: _____________ can be used to perform bivariate analysis on two categorical variables?
+Ans-: (a)
+
+Q6-: Find out the Average Amount of Sweet products that a single person buys who is a graduate?
+Ans-: (a)
+
+Q7-: What is the Maximum number of Total purchases a "Divorced Phd" makes?
+Ans-: (a)
+
+Q8-: Calculate the Minimum Income of a widow who is a graduate
+Ans-: (c)
+
+Q9-: Suppose you are given the Marital status of various customers and the Amount of fruit they buy, then which of the following will be best suitable for analysis?
+Ans-: (c)
+
+Q10-: Which of the following pivot tables will be used to construct a candlestick chart for the above question
+Ans-: (d)
+
+Q11-: So now as you know box plot will be best suitable to analyse the Marital status of the customer and the Amount of fruit they buy, which of the following is its correct representation?
+Ans-: (d)
+
+Q12-: Create a Pivot table you will use to create a candlestick chart to analyse Amount of fruit bought depending on Education qualification of various people
+Ans-: (a)
+
+Q13-: Create a pivot table that will be used to analyse Marital status & Amount of sweet products.
+Ans-: (b)
+
+Q14-: Match the following:
+Ans-: (c)
+
+Q15-: What is a scatter plot?
+Ans-: (a)
+
+Q16-: From this scatter plot infer the amount spent by the people whose Age is approx 55
+Ans-: (c)
+
+Q17-: In the Above Graph, What kind of correlation do these two features have?
+Ans-: (b)
+
+Q18-: What Kind of Correlation does the given graph have?
+Ans-: (c)
+
+Q19-: In order to use the CORREL function in a spreadsheet, what is needed?
+Ans-: (b)
+
+Q20-: You are given a task to analyse the Amount of fruits bought by a customer on the basis of their income, so what mathematical tool will you use to proceed further?
+Ans-: (b)
+
+Q21-: So, now you know that to find the relation between income and Amount spent on fruit you need to calculate the Correlation. So what is the correlation value for these two features?
+Ans-: (a)
+
+Q22-: n the previous question, we have seen that the relation between Income and MntFruits features is positive. Can you verify the same with the Scatter plot? Which of the following will be the correct scatter plot for these two variables?
+Ans-: (b)
+
+Q23-: Calculate the Correlation coefficient for Income & Age column
+Ans-: (c)
+
+Q24-: Calculate the correlation coefficient of Amount fruit products and Total kids
+Ans-: (b)
+
+Q25-: Which of the following is correct scatter plot depiction for Amount of sweet products and Income?
+Ans-: (b)
+
+Q26-: For Marital Status and Number of store purchases, what type of analysis will you use?
+Ans-: (b)
+
+Q27-: For Amount of fruit bought and Age, what type of analysis will you use?
+Ans-: (c)
+
+Q28-: Which part of the story telling method is the most important & useful from the perspective of stakeholders?
+Ans-: (c)
+
+Q29-: There is no need to mention the data points used to our stakeholders as they are only interested in the final result
+Ans-: (b)

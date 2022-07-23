@@ -1,0 +1,37 @@
+Assignment 4 solutions
+
+Q1-: How many students scored above average marks in placement tests?
+Ans-: (a)
+
+Q2-: What is the trimmed mean value of the hsc marks of all the students, considering its having outliers and the portion we want to remove is 0.041 to handle outliers as well?
+Ans-: (a)
+
+Q3-: Find the Average marks of all the students in their MBA and tell whether it helps us in our analysis in any way or not?
+Ans-: (c)
+
+Q4-: Find the Average marks of all the students in their MBA and tell whether it helps us in our analysis in any way or not?
+Ans-: (c)
+
+Q5-: According to you, which features are related to our business problem?
+Ans-: (a),(b),(d),(g),(h)
+
+Q6-: What is the frequency of students having marks in the range 60-65
+Ans-: (c)
+
+Q7-: Which of the following is the correct line chart representation of "hsc_p" Marks ?
+Ans-: (a)
+
+Q8-: Create a pivot table for students and find the maximum marks scored by male and female in their mba marks
+Ans-: (b)
+
+Q9-: Find the Standard deviation of the ssc_p (10th marks) , also state if there exist any outlier or not using trim mean.
+Ans-: (c)
+
+Q10-: Find the total count of the students who had a "Science and Technology" background.
+Ans-: (c)
+
+Q11-: In the view of Analysis , what can we conclude about the previous degree marks of the existing students?
+Ans-: (a),(b)
+
+Q12-: While doing analysis, what kind of analysis will you perform to find insight of work_ex column?
+Ans-: (c)
