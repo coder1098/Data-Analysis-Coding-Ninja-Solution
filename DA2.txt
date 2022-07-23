@@ -1,0 +1,81 @@
+Data analysis framework solutions
+
+Q1-: What is the first step in the Data Analysis Framework?
+Ans-: (c)
+
+Q2-: What do you understand by Business problems ?
+Ans-: (c)
+
+Q3-: In which step an analyst needs to decide about the data set format and connect with the data engineering team?
+Ans-: (c)
+
+Q4-: In the given dataset of House value Prediction, what kind of assumption will help us to find people who are rich?
+Ans-: (a)
+
+Q5-: In Data Acquisition, we need to find the important / required dataset for our business problem.
+Ans-: (a)
+
+Q6-: Data analysts need to make assumptions before deciding which data set is required to solve a problem.
+Ans-: (a)
+
+Q7-: Why do we need data merging?
+Ans-: (d)
+
+Q8-: There should be a common attribute in two files to merge data.
+Ans-: (a)
+
+Q9-: For the house value prediction dataset discussed, Table 1 columns(Datatype)- Longitude, Latitude, Area and Table 2 columns (Datatype)- Longitude, Average Income, Average House Price, Number of bedrooms. As a data analyst, you will merge the two tables based on which columns?
+Ans-: (a)
+
+Q10-: You are provided with a dataset related to hospital entries. The dataset has the following columns(Datatype)- Admit date(Char), Healthcare issue (String), Money (float). Which of the following data type needs to be updated?
+Ans-: (a)
+
+Q11-: In the hospital dataset, you need to add a new column which will store the total days admitted for a person. What datatype will you choose for this column?
+Ans-: (a)
+
+Q12-: Missing Values can change the overall analysis.
+Ans-: (a)
+
+Q13-: How to handle the missing values in a dataset containing 100 rows?
+Ans-: (b)
+
+Q14-: How to handle the missing values in a dataset containing 1,00,000 rows?
+Ans-: (a),(b)
+
+Q15-: Which of the following is true about outliers -
+Ans-: (c)
+
+Q16-: It is always good to do analysis with outlier and without outlier to describe how outlier is impacting the analysis.
+Ans-: (a)
+
+Q17-: The process of derivation of impactful new features from already existing features is known as-
+Ans-: (b)
+
+Q18-: You are provided with an employee dataset. This dataset contains the Birthdate of all the employees. You need to find all the employees whose age is greater than 35. What will be your next step?
+Ans-: (b)
+
+Q19-: What are the important points that need to be considered, while working on storytelling?
+Ans-: (d)
+
+Q20-: In House prediction dataset, Analyst created a new column- price per square. How did he do it?
+Ans-: (b)
+
+Q21-: While doing the analysis, the Analyst comes up with the two insights. Which of the following was it?
+Ans-: (a),(c)
+
+Q22-: Once you have insights after doing the analysis, what should be your next step?
+Ans-: (b)
+
+Q23-: Data analytics works by analyzing large data sets with a variety of tools and methods.
+Ans-: (a)
+
+Q24-: What are the tools which help in visualization?
+Ans-: (d)
+
+Q25-: Which of the following tools / techniques are commonly used for data analysis.
+Ans-: (d)
+
+Q26-: Match the tools with the process for which they are mainly used.
+Ans-: (c)
+
+

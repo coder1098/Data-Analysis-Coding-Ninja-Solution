@@ -1,0 +1,115 @@
+Introduction to data analysis topic solutions
+
+Q1-:  Data analysis involves which of the following processes?
+Ans-: (d)
+
+Q2-: The purpose of Data Analysis is to extract useful information from data and take the decision based upon the insights.
+Ans-: (a)
+
+Q3-: Data is a collection of unorganised facts.
+Ans-: (a)
+
+Q4-: Information is:
+Ans-: (b)
+
+Q5-: What's not true about data and information?
+Ans-: (d)
+
+Q6-: How can we define Structured Data?
+Ans-: (d)
+
+Q7-: An example of structured data is _____.
+Ans-: (a)
+
+Q8-: What do you understand about Semi Structured Data?
+Ans-: (b)
+
+Q9-: When we are composing an email, this type of data generation comes under ______________?
+Ans-: (b)
+
+Q10-: What kind of data comes under unstructured data?
+Ans-: (b),(c),(d)
+
+Q11-: Select the type of data for each of the following:
+Ans-: (b)
+
+Q12-: How does data help in data analysis
+Ans-: (d)
+
+Q13-: Match the features with the corresponding type of data analysis?
+Ans-: (a)
+
+Q14-: Descriptive Analytics focuses on?
+Ans-: (a)
+
+Q15-: Take a scenario, where you visit a doctor. To proceed further he will do a different kind of analysis. As soon as he starts asking questions like “What was your last BP?” or “About The Medicine you took” , this kind of analysis will be known as ____________ .
+Ans-: (d)
+
+Q16-: Consider an insurance company analyzing its customer base. The insurance company may know certain characteristics about its customers, such as their gender, age, or nationality. In order for the insurance company to get a better understanding of their customers, which of the following statement/s is FALSE?
+Ans-: (d)
+
+Q17-: Diagnostic Analysis focuses on?
+Ans-: (c)
+
+Q18-: In real time, when you visit a doctor. He takes your BP test and comes up with the new results in comparison to the past report of the same test , and tries to get an idea why you are feeling sick . This type of analysis is known as _____________.
+Ans-: (c)
+
+Q19-: How Diagnostic Analysis helps in business?
+Ans-: (b),(c)
+
+Q20-: When we use google map, which of the following is supported by diagnostic analysis ?
+Ans-: (c) 
+
+Q21-: Predictive analysis focuses on
+Ans-: (c)
+
+Q22-: In a given scenario of doctor and patient, how will the doctor apply predictive analysis?
+Ans-: (b)
+
+Q23-: What are the benefits of predictive analytics.
+Ans-: (d)
+
+Q24-: Predictive analysis helps in finding the future trends of any company.
+Ans-: (a)
+
+Q25-: Prescriptive Analysis focuses on ?
+Ans-: (c)
+
+Q26-: Which analysis provides actionable insights?
+Ans-: (b)
+
+Q27-: Prescriptive Analytics takes Predictive Analytics a step further and takes the possible forecasted outcomes and predicts consequences for these outcomes. Then take action on the basis of this.
+Ans-: (a)
+
+Q28-: If any ecommerce clothing company could merge your data with other information like your LinkedIn profile and Glassdoor salary estimates. Now they will know how much money you make and your buying habits, maybe even some notes from the previous purchase. All of this combined would allow Myntra to get an idea what kind of customer you are. Here what kind of analysis is done by the company?
+Ans-: (d)
+
+Q29-: A Training Manager uses predictive analysis to discover that most learners without a particular skill will not complete the newly launched course. Which type of analysis will he apply to find the solution?
+Ans-: (b)
+
+Q30-: In the same scenario, you start searching for a few items on their websites. As soon as you create a pattern of search they start to give you a suggestion according to your need and in your range . How are they doing this?
+Ans-: (a)
+
+Q31-: In the Moneyball scenario, why did they do data analytics?
+Ans-: (a)
+
+Q32-: How do baseball teams decide the players they want to play with?
+Ans-: (b)
+
+Q33-: What are the two Sabermetrics statistics, which people follow in baseball analytics.
+Ans-: (a), (c)
+
+Q34-: In the healthcare domain, what kind of data is available?
+Ans-: (d)
+
+Q35-: The need of Analytics in Healthcare?
+Ans-: (d)
+
+Q36-: In the real time Healthcare domain, what challenges are there ?
+Ans-: (d)
+
+Q37-: How companies use to take decisions before the analytics.
+Ans-: (d)
+
+Q38-: In today’s scenario we are using e-commerce website. Are they using customer targeting methods to reach their customers?
+Ans-: (a)

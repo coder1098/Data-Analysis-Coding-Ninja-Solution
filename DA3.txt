@@ -1,0 +1,44 @@
+Project: covid dataset solutions
+
+Q1-: What type of data is provided?
+Ans-: (c)
+
+Q2-: Can you find the total % of new cases in Kerala compared to India?
+Ans-: (a)
+
+Q3-: Can you find which country has the highest cases by looking at dataset ?
+Ans-: (b)
+
+Q4-: Which of the following can be analysed using /looking at this dataset?
+Ans-: (b)
+
+Q5-: Which of the following data will help you find the answer to the % of cases concerning the population of a state.
+Ans-: (b)
+
+Q6-: You need to find the death rate of each State. You are provided with the population data of each state over the internet. What will be your next action?
+Ans-: (b)
+
+Q7-: Write the name of the state which have missing value in any of the column.
+Ans-: (c)
+
+Q8-: The data type for the “Date” Column is in String format. As a Data Analyst, what will be your next step?
+Ans-: (c)
+
+Q9-: Suppose you wish to calculate the total recovery rate in a state over a given period. Which attributes/features would be helpful?
+Ans-: (a),(b),(d),(e),(g)
+
+Q10-: The government wants to understand the increasing trend of the covid cases. Which kind of analysis will help the government to find the same?
+Ans-: (b)
+
+Q11-: While going through the given dataset, the Government sees that Telangana has high deaths and active cases. Now they want to understand why this state has the highest deaths and high active access. What kind of analysis will help the government?
+Ans-: (d)
+
+Q12-: By looking at the data or analysing the data, the Government wants to impose a lockdown to control the spread of the virus in different states. Which type of analysis will help here?
+Ans-: (b)
+
+Q13-: After going through the data of a certain period, the government is now able to control the situation and save the people from the next spread wave. Which type of analysis helped here?
+Ans-: (d)
+
+Q14-: The government finds that the vaccination drive is going very well. Now for their future vote support, they want to add to their campaigning rally. They ask Data analysts to find the total number of vaccinations done in the given period. What analysis will help in this situation?
+Ans-: (b)
+
