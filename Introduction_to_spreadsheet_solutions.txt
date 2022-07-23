@@ -1,0 +1,85 @@
+Introduction to spreadsheet solutions
+
+Q1-: What are the advantages of using Spreadsheet for Data Analysis?
+Ans-: (a)
+
+Q2-: How is data organised in Spreadsheet?
+Ans-: (b)
+
+Q3-: Which of the following is the intersection of a row and column?
+Ans-: (d)
+
+Q4-: True/False
+Ans-: (b)
+
+Q5-: ________ is a collection of cells organized in rows and columns where you keep and manipulate the data.
+Ans-: (b)
+
+Q6-: How do you wrap the text in a cell of a spreadsheet ?
+Ans-: (c)
+
+Q7-: In Spreadsheets, We use ______ to represent Columns and __________ to represent rows.
+Ans-: (a)
+
+Q8-: In the screenshot above, Match the Functionality with the icon representing it?
+Ans-: (c)
+
+Q9-: Ctrl+P or Cmd+P is use for which of the following
+Ans-: (c)
+
+Q10-: How do we Sort the data in a spreadsheet?
+Ans-: (a)
+
+Q11-: The process of identifying specific rows and columns so that certain columns and rows are always visible on the screen is called?
+Ans-: (a)
+
+Q12-: The process of identifying specific rows and columns so that certain columns and rows are always visible on the screen is called?
+Ans-: (b)
+
+Q13-: Which shortcut will help us to find any keyword?
+Ans-: (b)
+
+Q14-: What are the possible paste options in excel?
+Ans-: (d)
+
+Q15-: How can we find duplicates in the dataset?
+Ans-: (d)
+
+Q16-: How do we put color formatting to a set of data with darker color to higher values and lighter color to lower values ?
+Ans-: (b)
+
+Q17-: In the given snapshot of the dataset, by analysing it can you tell if we applied conditional formatting on it or not?
+Ans-: (a)
+
+Q18-: How do you change the range of cells that a Conditional Formatting rule applies to?
+Ans-: (b)
+
+Q19-: In Spreadsheet , the function must start with the symbol __________
+Ans-: (b)
+
+Q20-: What does the SUMIF function do?
+Ans-: (a)
+
+Q21-: Which of the following is the correct way to write the IF function?
+Ans-: (b)
+
+Q22-: Which of the following is not a function in a spreadsheet?
+Ans-: (b)
+
+Q23-: Suppose today is Republic Day of India and the year is 2022, then the function =DAY(TODAY()) in excel will give which of the following output?
+Ans-: (b)
+
+Q24-: A person named “Joe Robinson” has an entry in cell B2, then the formula =MID(B2,2,2) will give which of the following output?
+Ans-: (c)
+
+Q25-: Which would you choose to create a chart?
+Ans-: (b)
+
+Q26-: The part of the chart area that displays data is?
+Ans-: (c)
+
+Q27-: A Histogram is:
+Ans-: (a)
+
+Q28-: We can use a Spreadsheet for :
+Ans-: (d)

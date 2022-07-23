@@ -1,0 +1,52 @@
+Assignment2 solutions
+
+Q1-: As a data analyst what should be your first step, before you start solving the given problem of College?
+Ans-: (c)
+
+Q2-:How Administrative team can improve the overall placement of the college?
+Ans-: (c)
+
+Q3-: This statement is true or false
+Ans-: (a)
+
+Q4-: The MBA college provides you both the placement details and student personal details . Now as an analyst do you think we need to merge the dataset?
+Ans-: (a)
+
+Q5-: You are given a Campus Recruitment Dataset which contains two worksheets: One which contains the academic information of all students and the other sheet contains the placement data for each student. Join both the Sheets using VLOOKUP function and Answer the following questions:
+Ans-: (a)
+
+Q6-: What are the marks of Anne McFarland (student name) in the placement test?
+Ans-: (c)
+
+Q7-: How many students get placed?
+Ans-: (a)
+
+Q8-: What will be the output if we try the following function on the sheets?
+Ans-: (c)
+
+Q9-: What is the data type of the data which is present in mba_p?
+Ans-: (c)
+
+Q10-: Using Filter Method, Find the number and name of columns in which missing values are present?
+Ans-: (b)
+
+Q11-: How many missing values do we have in the salary column?
+Ans-: (c)
+
+Q12-: In the given Placement dataset, Salary of the non employed students is missing. Which technique will you use to fill up the missing data ?
+Ans-: (b)
+
+Q13-: Find the number of girls that got placed after doing their MBA in Mkt&HR?
+Ans-: (a)
+
+Q14-: Find the number of students who have done their higher education in Science with more than 70% marks and are still not placed.
+Ans-: (a)
+
+Q15-: Find the number of students with no work experience still got placed.
+Ans-: (a)
+
+Q16-: In the given dataset, some of the values of the column etest_p are missing, with what value will you replace the missing values?
+Ans-: (a)
+
+Q17-: Write the function to find the value that will be used to fill up the missing data in the Salary column for those who are employed if there is any missing value, also Average and Standard deviation is far from each other.
+Ans-: (b)

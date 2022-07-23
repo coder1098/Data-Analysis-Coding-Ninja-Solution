@@ -1,0 +1,46 @@
+Assignment- 1 solutions
+
+Q1-: Employee Salary
+Ans-: (b)
+
+Q2-: Youngest Employee
+Ans-: (b)
+
+Q3-: Employee Name
+Ans-: (a)
+
+Q4-: Duplicates
+Ans-: (b)
+
+Q5-: HealthFlag
+Ans-: (a)
+
+Q6-: Function
+Ans-: (a)
+
+Q7-: Female employees
+Ans-: (b)
+
+Q8-: Average Salary
+Ans-: (a)
+
+Q9-: Unhealthy persons
+Ans-: (a)
+
+Q10-: ConcatAlpha
+Ans-: (d)
+
+Q11-: Names- Healthy people
+Ans-: (c)
+
+Q12-: Salary & Employee
+Ans-: (b)
+
+Q13-: Salary range
+Ans-: (a)
+
+Q14-: HR- Female employees
+Ans-: (b)
+
+Q15-: True False
+Ans-: (a)

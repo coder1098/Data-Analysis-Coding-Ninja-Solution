@@ -1,0 +1,146 @@
+Introduction to Business Problem solutions
+
+Q1-: What kind of campaign was done by the ABC food company?
+Ans-: (b)
+
+Q2-: What does customer churning mean?
+Ans-: (c)
+
+Q3-: Which of the following is the problem/problems that were being faced by the ABC food company?
+Ans-: (b),(d)
+
+Q4-: Before moving towards the data analysis part, the Data Analyst must have the knowledge of :
+Ans-: (b)
+
+Q5-: What kind of the company ABC food is:
+Ans-: (b)
+
+Q6-: So far, you have an understanding of the company and its working methods. What kind of data would help you find the potential customers that will purchase Sweets and fruits?
+Ans-: (a),(c)
+
+Q7-: We convert the problem into the data analysis form to make it more relatable with what kind of data will help us to solve the actual problem.
+Ans-: (a)
+
+Q8-: What data is not required to find out the probable customer who will buy the sweet and fruit product.?
+Ans-: (b)
+
+Q9-: What does dt_cutomer column represent?
+Ans-: (a)
+
+Q10-: While doing Data processing, what was the initial problem faced by the Data Analyst?
+Ans-: (b)
+
+Q11-: What was the solution proposed by the instructor to merge the data in spreadsheet?
+Ans-: (c)
+
+Q12-: VLOOKUP function is used to?
+Ans-: (a)
+
+Q13-: What is the correct Syntax for using the Vlookup Function?
+Ans-: (a)
+
+Q14-: What does the is_sorted parameter do?
+Ans-: (a)
+
+Q15-: What does the Vlookup error mean?
+Ans-: (a),(d)
+
+Q16-: Which of the following is true about the v-lookup function in Google sheets?
+Ans-: (b)
+
+Q17-: V lookup cannot look at its left and always search for the range in the right side of the search_key column.
+Ans-: (a)
+
+Q18-: Write the =VLOOKUP() function to Find out the age of the employee corresponding to employee with id 3.
+Ans-: (a)
+
+Q19-: Write =Vlookup() function to find out the id of the employee whose name is Sahil.
+Ans-: (a)
+
+Q20-: Write =Vlookup() function to fill up the Salary column (D column) using G and H column in the given Dataset.
+Ans-: (b)
+
+Q21-: In the VLOOKUP function what does the argument index means?
+Ans-: (a)
+
+Q22-: In the given snapshot of the spreadsheet dataset. This vlookup will work or not. The second sheet name is “market” and you want to import 2,3,4 and 5 columns from the second sheet .
+Ans-: (b)
+
+Q23-: What does the =Type() function in excel returns -
+Ans-: (b)
+
+Q24-: The format of Date datatype is?
+Ans-: (a)
+
+Q25-: Suppose in the given dataset “marketing campaign” , how can you change the datatype of income to string.
+Ans-: (a)
+
+Q26-: If the type function returns 64, what does that signify? ( Please refer provided notes before you attempt this question)
+Ans-: (b)
+
+Q27-: Is the Data Type assigned by Google sheets itself will always be correct?
+Ans-: (b)
+
+Q28-: Missing values are always represented with 0?
+Ans-: (b)
+
+Q29-: What are the possible ways to find out the missing values in a column?
+Ans-: (c)
+
+Q30-: What does the CountA function does?
+Ans-: (b)
+
+Q31-: How does COUNTA function help us in finding the number of missing values in a a particular column?
+Ans-: (b)
+
+Q32-: There is a snapshot of the dataset which contains the information about the scholarship which students are getting under the EWS Scheme
+Ans-: (b)
+
+Q33-: A dataset is given to you that contains 40k rows. 2 rows are having missing values in it. Which technique will you use to fill up the missing data?
+Ans-: (a)
+
+Q34-: In the Dataset , Which method will be useful to handle Missing values?
+Ans-: (b)
+
+Q35-: Standard deviation will show how the data points are spread around the mean value.
+Ans-: (a)
+
+Q36-: Median has
+Ans-: (a)
+
+Q37-: What does the low SD indicate:
+Ans-: (b)
+
+Q38-: Which of the following is true in case of Mean and Median:
+Ans-: (b),(c)
+
+Q39-: Match the following:
+Ans-: (b)
+
+Q40-: A dataset is given to you which contains information about the salary of the employees depending on their work experience. Due to some technical errors, some data got deleted from the experience column. Which technique will you use to fill up the missing data?
+Ans-: (c)
+
+Q41-: If the standard deviation for a given column is very close to the average value then the missing values should be replaced with:
+Ans-: (d)
+
+Q42-: It is given that a column has average value=15, and standard deviation = 3,median = 10, then the missing values for that particular column will be replaced by?
+Ans-: (a)
+
+Q43-: Given the marketing campaign dataset, calculate the standard deviation for the column “income”.(After handling Missing Value)
+Ans-: (a)
+
+Q44-: Using the marketing campaign dataset, calculate the average purchases from store.
+Ans-: (c)
+
+Q45-: In the given Dataset, Calculate the Standard Deviation for the Monthly expenses column(without handling missing value).
+Ans-: (a)
+
+Q46-: In the Dataset Calculate the variance for the Monthly expenses column(without handling missing values).
+Ans-: (c)
+
+Q47-: In the given dataset how we will replace the missing value.
+Ans-: (a)
+
+Q48-: In the dataset, what will be the fill up value for the missing data point?
+Ans-: (a)
+
