@@ -1,0 +1,65 @@
+Data processing : business problem
+
+Q1-: Removing outliers is not an important part of the analysis
+Ans-: (c)
+
+Q2-: While doing data analysis, if an outlier is encountered in any feature, it is the responsibility of the Data Analyst to discuss it with the stakeholders.
+Ans-: (a)
+
+Q3-: In the given dataset, by observing can you find any outlier in any column.if yes how many values can be counted as outlier :
+Ans-: (c)
+
+Q4-: Value of Quartile 2 equal to the median ?
+Ans-: (a)
+
+Q5-: What do you understand about the outliers?
+Ans-: (a)
+
+Q6-: To find outliers, which visualisation method is preferred?
+Ans-: (b)
+
+Q7-: Which one of the following is correct format for finding Quartile?
+Ans-: (a)
+
+Q8-: Match the following for the NumStorePurchases column in the given marketing dataset :
+Ans-: (a)
+
+Q9-: By looking at the Boxplot / Candlestick Chart we can conclude whether there exists an outlier or not. How do we conclude that?
+Ans-: (a)
+
+Q10-: QR can give you an overview of where most of your values lie in the range and how they are clustered between Q3 and Q1.
+Ans-: (a)
+
+Q11-: If we have an outlier in a column, which is directly connected to our analysis or business problem. Then we will not remove the outlier as it may impact the final results.
+Ans-: (a)
+
+Q12-: To find outlier in any given range we will be marking the value as "1" or "Outlier" , when they are not in the range of Q1-1.5IQR to Q3+1.5IQR.
+Ans-: (a)
+
+Q13-: Which of the following will be true in the case of Quartile?
+Ans-: (a),(c)
+
+Q14-: Which of the following can be concluded for the Quartile and Outlier?
+Ans-: (a),(c)
+
+Q15-: Using the Quartile method, find out how many outliers are present in the column Amount of Sweet products?
+Ans-: (b)
+
+Q16-: Using the Quartile method, find out how many outliers are present in the column Number of Web purchases?
+Ans-: (d)
+
+Q17-: By using feature engineering, we can enrich our dataset and be more explanatory.
+Ans-: (a)
+
+Q18-: We can not update / create new features after this step?
+Ans-: (b)
+
+Q19-: After applying feature engineering to the given dataset, find the count of people having Age of 61.
+Ans-: (c)
+
+Q20-: Calculate the total number of families having Total purchases more than 20.
+Ans-: (b)
+
+Q21-: Find out the count of the number of people having Total Children at home is more than 2 and their income is less than 40000.
+Ans-: (c)
+
