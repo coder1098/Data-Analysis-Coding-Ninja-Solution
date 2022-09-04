@@ -1,0 +1,17 @@
+Project: World Economic Indicator solutions
+
+Q1: To start the analysis which of the following steps will help you?
+Ans: (b)
+
+Q2: How would you handle the missing values in GDP dataset?
+Ans: (c)
+
+Q3: Which of the following conditions will you use to handle the missing values?
+Ans: (b)
+
+Q4: What can you say about the presence of Outliers in the Dataset?
+Ans: (b)
+
+Q5: Can we directly compare the CO2 emissions of two countries like the USA and China?
+Ans: (b)
+

@@ -1,0 +1,37 @@
+Case Study : Business Problem Solutions
+
+Q1 -: To consider any customer to churn , should there be an Assumption or Threshold over Recency Column?
+Ans -: (a)
+
+Q2 -: To solve the customer churning issue, which of the following features will be more helpful?
+Ans -: (a)
+
+Q3 -: What should be your next step for doing the Analysis?
+Ans -: (a)
+
+Q4 -: While going through the data, you find that the date of registration is in date format. Now to perform analysis it will be good to create a new column based on the dt_customer. Which of the following new columns might help you in the analysis.
+Ans -: (d)
+
+Q5 -: As you are moving forward, Do you think there is any missing value in any of the new columns? (Do not consider Income column as this column was already handled in previous business problem )
+Ans -: (b)
+
+Q6 -: Let’s understand how the values in the recency column are spread over the range. Which of the following is correct for the recency column.
+Ans -: (b), (c)
+
+Q7 -: Mean and trim mean with 0.1 exclude proportion are far away from each other no of days since registration.
+Ans -: (b)
+
+Q8 -: As you move forward, you know that the recency column will help you in the analysis as it depicts the days since the last purchase. To find what kind of customers are churning, which of the following features will you use to find bivariate relations with recency.
+Ans -: (a), (e), (f), (g)
+
+Q9 -: Which method you will use to find bivariate relation between recency and Age?
+Ans -: (b), (d)
+
+Q10 -: What kind of relation does Income and Recency feature have?
+Ans -: (b)
+
+Q11 -: What kind of relation TotalKids and Recency feature have?
+Ans -: (a)
+
+Q12 -: Do you think any feature is strongly correlated either positive or negative with respect to recency.
+Ans -: (b)

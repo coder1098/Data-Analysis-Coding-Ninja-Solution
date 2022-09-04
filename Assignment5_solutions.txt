@@ -1,0 +1,49 @@
+Assignment 5 solutions
+
+Q1-: Find out if there is any relationship between the Mba percentage and Employability test percentage.
+Ans-: (a)
+
+Q2-: What is the correlation coefficient for the relationship between mba percentage and Employability test percentage.
+Ans-: (b)
+
+Q3-: A data analyst ‘Mohit’, reported to his manager that “As the etest_p marks of a student increases , his/her salary also increases drastically”.
+Ans-: (b)
+
+Q4-: Which of the following columns will we perform the bivariate analysis?
+Ans-: (a), (b), (c), (d), (e), (f)
+
+Q5-: For Status and degree_p column, which of the following analysis will you perform?
+Ans-: (b) , (c)
+
+Q6-: For Salary and etest_p column , which type of analysis will you perform?
+Ans-: (a), (c)
+
+Q7-: You want to perform an analysis on if placement of students is dependent on gender, which analysis will you use?
+Ans-: (a)
+
+Q8-: Now you have to perform the analysis to decide which gender you should prefer during the admission process in order to improve our placement ratio.
+Ans-: (a)
+
+Q9-: Which of the following pivot table correctly helps in deciding the selection criteria on the basis of degree_p (Marks in their previous degree) marks
+Ans-: (c)
+
+Q10-: Students from which graduate degree should be preferred the most so that the placement record of the college is improved?
+Ans-: (a)
+
+Q11-: As a data analyst you have to decide the minimum cut off of hsc marks for students. So now find out what was the average marks in hsc_p (higher secondary marks) of all the students who got "placed" after MBA.
+Ans-: (c)
+
+Q12-: What is the most appropriate criteria for admission on the basis of ssc_p?
+Ans-: (b)
+
+Q13-: What is the percentage of students who got placement after their MBA degree and have a prior work experience
+Ans-: (c)
+
+Q14-: Can we conclude that the students who had previous work experience are getting more placement ?
+Ans-: (a)
+
+Q15-: Is there a need to find correlation between ssc_p & hsc_p marks in our analysis to decide the admission criteria?
+Ans-: (b)
+
+Q16-: Which of the following are the final insights from your analysis on college placement data.
+Ans-: (c), (d), (e), (f), (g)
